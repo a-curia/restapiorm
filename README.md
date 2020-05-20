@@ -1,0 +1,8 @@
+- Spring Boot 2
+- JPA
+- Hibernate 5
+- Lombok
+- JUnit 5
+- Mockito 2
+- MySQL 8+ (InnoDB)
+- Jacoco
